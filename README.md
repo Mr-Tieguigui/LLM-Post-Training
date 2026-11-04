@@ -139,6 +139,7 @@ Alignment in LLMs involves guiding model outputs to conform to human expectation
 
 ### Direct Preference Optimization
 
+- Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization [Paper](https://aclanthology.org/2026.acl-long.161/) ![ACL](https://img.shields.io/badge/ACL-2026-blue)  
 - Taxonomizing Failure Modes of Direct Preference Optimization [Paper](https://arxiv.org/abs/2407.15779) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)  
 - Step-wise Direct Preference Optimization: A Rank-Based Approach to Alignment [Paper](https://arxiv.org/abs/2407.10325) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)  
 - SimPO: Simple Preference Optimization with a Reference-Free Reward [Paper](https://arxiv.org/abs/2405.14734) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)  
@@ -180,6 +181,7 @@ Reasoning constitutes a central pillar for enabling LLMs to tackle tasks involvi
 * Cycle: Learning to self-refine the code generation [[Paper]](https://dl.acm.org/doi/10.1145/3583133.3590000) ![OOPSLA](https://img.shields.io/badge/OOPSLA-2024-red)  
 * Self-Contrast: Better reflection through inconsistent solving perspectives [[Paper]](https://arxiv.org/abs/2401.02009) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)  
 * Improving LLM-based machine translation with systematic self-correction [[Paper]](https://arxiv.org/abs/2402.16379) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)  
+* Translate-and-Revise: Boosting large language models for constrained translation [[Paper]](https://aclanthology.org/2024.ccl-1.82/) ![CCL](https://img.shields.io/badge/CCL-2024-red)  
 * Reflexion: Language agents with verbal reinforcement learning [[Paper]](https://arxiv.org/abs/2401.00001) ![NeurIPS](https://img.shields.io/badge/NeurIPS-2024-red)  
 * Selfee: Iterative self-revising LLM empowered by self-feedback generation [[Paper]](https://arxiv.org/abs/2306.02907) ![arXiv](https://img.shields.io/badge/arXiv-2023-red)  
 * SelfEvolve: A code evolution framework via large language models [[Paper]](https://arxiv.org/abs/2306.02907) ![arXiv](https://img.shields.io/badge/arXiv-2023-red)  
